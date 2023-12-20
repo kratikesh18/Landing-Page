@@ -534,13 +534,17 @@ a{
     gap: 0.6rem;
 }
 .footer-bottom{
+    height: 5rem;
     display: flex;
     justify-content: center;
     align-items: center;
     
 }
+
 .footer-text{
     border-top: 2px solid #c0c0c0;
+    font-size: 1.2rem;
+    font-weight: 500;
 }
 
 
