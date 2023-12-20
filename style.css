@@ -423,6 +423,16 @@ a{
     gap: 1rem;
     width: 60%;
 } 
+.getupdates-right p{
+    font-size: 0.86rem;
+}
+.letter-form{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    gap: 0.4rem;
+}
+
 .email-ip{
     padding:0.5rem;
     /* border: none; */
@@ -442,7 +452,6 @@ a{
     border: none;
     border-radius:3px;
 }
-
 
 .links{
     text-decoration: underline;
@@ -470,7 +479,6 @@ a{
 
     }
     .getupdates-right p{
-        
         text-align: center;
     }
 }
